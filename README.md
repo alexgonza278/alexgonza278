@@ -37,7 +37,9 @@ jpa , jdbc , sql , react , javascript , hml , css , postman
 * NATIVE SPANISH
 
 
-
+<h2 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/1024px-GNOME_Terminal_icon_2019.svg.png" height="128">
+<br><b>GNOME Terminal</b></h2>
+<br>
 
 <h2 align="center" ><b>Commands in Linux Terminal that learned</b>
 </h2>
