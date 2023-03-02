@@ -35,3 +35,18 @@ jpa , jdbc , sql , react , javascript , hml , css , postman
 ### LANGUAGES👅
 * B1 ENGLISH LEVEL (INTERMEDIATE)
 * NATIVE SPANISH
+
+
+
+
+<h2 align="center" ><b>Commands in linux terminal that learned</b>
+</h2>
+
+
+|COMMAND |CONCEPT|
+|---|---|
+|```mkdir```| Crea una nueva carpeta dado un nombre para esa carpeta.|
+|```cat```|Imprime el contenido de un archivo dada su ruta.|
+|```mv```|Nos permite mover un archivo o carpeta dada una ruta inicial y una ruta final. También nos permite cambiar el nombre de un archivo o carpeta.|
+|```pwd```| Nos nuestra la ruta absoluta del directorio actual, así podemos saberen dónde estamos ubicados.|
+|```ls```|Lista los archivos de la carpeta actual, o de la ruta dada.|
