@@ -53,7 +53,7 @@ jpa , jdbc , sql , react , javascript , hml , css , postman
 |```pwd```| Nos nuestra la ruta absoluta del directorio actual, así podemos saberen dónde estamos ubicados.|
 |```ls```|Lista los archivos de la carpeta actual, o de la ruta dada.|
 
-
+<br>
 
 <h2 align="center" ><b>Commands Alias Linux Terminal that learned</b>
 </h2>
