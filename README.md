@@ -39,14 +39,24 @@ jpa , jdbc , sql , react , javascript , hml , css , postman
 
 
 
-<h2 align="center" ><b>Commands in linux terminal that learned</b>
+<h2 align="center" ><b>Commands in Linux Terminal that learned</b>
 </h2>
 
 
-|COMMAND |CONCEPT|
+|COMMAND |DESCRIPTION|
 |---|---|
 |```mkdir```| Crea una nueva carpeta dado un nombre para esa carpeta.|
 |```cat```|Imprime el contenido de un archivo dada su ruta.|
 |```mv```|Nos permite mover un archivo o carpeta dada una ruta inicial y una ruta final. También nos permite cambiar el nombre de un archivo o carpeta.|
 |```pwd```| Nos nuestra la ruta absoluta del directorio actual, así podemos saberen dónde estamos ubicados.|
 |```ls```|Lista los archivos de la carpeta actual, o de la ruta dada.|
+
+
+
+<h2 align="center" ><b>Commands Alias Linux Terminal that learned</b>
+</h2>
+
+|COMMAND ALIAS |DESCRIPTION|
+|---|---|
+|```alias cls='clear'```| Este comando crea un alias llamado ```cls``` para el comando ```clear```, lo que significa que al escribir ```cls``` en la terminal, se ejecutará el comando ```clear``` en su lugar. Esto borra la pantalla de la terminal y muestra solo la línea de comandos, lo que puede ser útil para limpiar la pantalla y comenzar con una nueva sesión.|
+|```alias h='history```|Este comando crea un alias llamado ```h``` para el comando history, lo que significa que al escribir ```h```en la terminal, se ejecutará el comando ```history``` en su lugar. Esto muestra una lista de los comandos ejecutados previamente en la sesión actual, lo que puede ser útil para recordar comandos anteriores o volver a ejecutar comandos sin tener que escribirlos nuevamente.|
