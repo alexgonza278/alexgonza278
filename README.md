@@ -22,7 +22,7 @@ jpa , jdbc , sql , react , javascript , hml , css , postman
   * Perito Mercantil orientación en Comercio
 
 * **INSTITUTO DE INGLÉS COMPREHENSIVE SCHOOL**
-  * 2012-201
+  * 2012-2017
   * English Teacher
   
 * **JAVA FULL STACK CAPACITATION IN  G&L GROUP**
